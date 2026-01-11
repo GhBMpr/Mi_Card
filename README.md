@@ -56,13 +56,13 @@ screenshots/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/profile-card-flutter.git
+git clone https://github.com/GhBMpr/Mi_Card.git
 ````
 
 2. **Navigate to the project**
 
 ```bash
-cd profile-card-flutter
+cd Mi_Card
 ```
 
 3. **Install dependencies**
